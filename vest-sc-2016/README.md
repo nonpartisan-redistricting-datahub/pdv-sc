@@ -25,6 +25,11 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - File: US FIPS Codes
     - File: `US_FIPS_Codes.csv`
 
+### Unaccessible files:
+- File: SC Precinct Shapefile
+   - Note: Emailed Victor Frontroth from the Mapping Section of the South Carolina Revenue and Fiscal Affairs Office on 09/09 but we have not heard back yet.
+
+
 ## File processing:
 
 `vest-sc-2016-validation.ipynb` is the script that is the basis of the validation report
