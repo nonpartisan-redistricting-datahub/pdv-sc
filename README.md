@@ -8,11 +8,15 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ## vest-sc-2020
 
+RDH's partner data validation for VEST's 2020 SC file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4789402&version=26.0).
 
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2020-south-carolina-precinct-and-election-results/).
 
 ## vest-sc-2018
 
+RDH's partner data validation for VEST's 2016 SC file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4142759&version=51.0).
 
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2018-south-carolina-precinct-and-election-results/).
 
 ## vest-sc-2016
 
