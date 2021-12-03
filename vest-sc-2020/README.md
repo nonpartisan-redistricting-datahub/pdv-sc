@@ -22,9 +22,10 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Date accessed: 11/29/2021
   - Link: https://www.enr-scvotes.org/SC/106502/Web02-state.264691/#/
   - Note: Selected 'SELECT COUNTY' tab, clicked on a county, select 'See Precincts Reporting', and downloaded 'Detail XLS'
-- File: 2020 Redistricting Data Program Final Release (SC Partnership Shapefile)
-  - Date accessed: 11/22/2021
-  - Link: https://www.census.gov/geo/partnerships/pvs/partnership19v2/st45_sc.html
+
+### Inaccessible files:
+- File: SC Precinct Shapefiles
+  - Note: Emailed Mapping Section of the South Carolina Revenue and Fiscal Affairs Office at analyticsmapping@rfa.sc.gov to request shapefiles on 12/02/21.
 
 ## File processing:
 
